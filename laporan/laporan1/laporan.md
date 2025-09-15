@@ -1,7 +1,7 @@
 # Laporan Modul 1: Perkenalan Laravel 
-**Mata Kuliah:** Workshop Web Lanjut
-**Nama:** Fathan Mubina
-**NIM:** 2024573010058
+**Mata Kuliah:** Workshop Web Lanjut  
+**Nama:** Fathan Mubina  
+**NIM:** 2024573010058  
 **Kelas:** TI-2C
 
 ---
